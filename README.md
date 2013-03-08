@@ -8,18 +8,18 @@ I managed to build a working CWM6 for Samsung SCHI519.
 ## Files/Directorys
 
     root
-    ©À©¤ README.md
-    ©À©¤ recovery.cwm6.img
-    ©À©¤ recovery.stock.img
-    ©¸©¤ device
-        ©¸©¤ samsung
-            ©¸©¤ SCHI519
-                ©À©¤ AndroidBoard.mk
-                ©À©¤ AndroidProducts.mk
-                ©À©¤ BoardConfig.mk
-                ©À©¤ cm.mk
-                ©À©¤ device_SCHI519.mk
-                ©À©¤ kernel
-                ©À©¤ postrecoveryboot.sh
-                ©À©¤ recovery.fstab
-                ©¸©¤ system.prop
+    â”œâ”€ README.md
+    â”œâ”€ recovery.cwm6.img
+    â”œâ”€ recovery.stock.img
+    â””â”€ device
+        â””â”€ samsung
+            â””â”€ SCHI519
+                â”œâ”€ AndroidBoard.mk
+                â”œâ”€ AndroidProducts.mk
+                â”œâ”€ BoardConfig.mk
+                â”œâ”€ cm.mk
+                â”œâ”€ device_SCHI519.mk
+                â”œâ”€ kernel
+                â”œâ”€ postrecoveryboot.sh
+                â”œâ”€ recovery.fstab
+                â””â”€ system.prop
